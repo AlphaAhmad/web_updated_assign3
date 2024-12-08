@@ -1,0 +1,28 @@
+.input-field{
+    display: flex;
+    flex-direction: column;
+    margin:3vw 10px;
+}
+
+.label{
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-inline: 10px;
+}
+
+.input{
+    border-radius: 6px; 
+    border-width: 1px;
+    height:37px;
+    margin-inline: 10px;
+    border-color: red;
+}
+
+/* .paragraph
+{
+    border-radius: 6px; 
+    border-width: 1px;
+    height:67px;
+    margin-inline: 10px;
+    border-color: red;
+} */

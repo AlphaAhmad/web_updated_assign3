@@ -1,0 +1,31 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border-radius: 2px;
+    border-style: solid;
+    border-color:rgb(167, 167, 180);
+    box-shadow: 2px 2px;
+    width: 15vw;
+    height: 8vw;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.cardTitle{
+    color:rgb(68, 114, 116);
+    font-size: large;
+}
+
+.cardValue{
+    position: relative;
+    margin-top: 1vw;
+    font-size: xx-large;
+}
+.stats{
+    margin-top: 1.3vw;
+}
+
+.stats span{
+    color: red;
+}
